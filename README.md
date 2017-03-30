@@ -1,4 +1,4 @@
-                        Train multi-layer Neural network (Backpropagation) using NVIDIA GPU 
+                        ‘Train multi-layer Neural network (Backpropagation) using NVIDIA GPU’
 
 Introduction:
 ------------
